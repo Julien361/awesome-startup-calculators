@@ -25,6 +25,7 @@
 
 ## Financial Projections
 
+- [Calculation Hub Startup Runway Calculator](https://calculation-hub.com/financial/startup-runway) - Free monthly cash-flow projections using cash balance, revenue, expenses, growth assumptions, and cash injections.
 - [ProjectionHub](https://www.projectionhub.com) - Financial projection templates for startups.
 - [Causal](https://www.causal.app) - Modern financial modeling tool.
 
